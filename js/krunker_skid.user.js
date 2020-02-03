@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name         Krunker  Skid - 🔥bushfire-disaster-appeal🔥
 // @namespace    https://www.communityenterprisefoundation.com.au/make-a-donation/bushfire-disaster-appeal/
-// @updateURL    https://skidlamer.github.io/js/krunker_skid.user.js
+// @updateURL    https://github.com/DevineAssuming/skidlamer.github.io/blob/master/js/krunker_skid.user.js
 // @icon64       https://pbs.twimg.com/profile_images/931401544129318913/10UTQJ_n_400x400.jpg
 // @version      1.9.6.4
 // @description  Australia On Fire
 // @author       Skid Lamer
 // @match        *://krunker.io/*
-// @require      https://skidlamer.github.io/js/FileSaver.js
+// @require    https://github.com/DevineAssuming/skidlamer.github.io/blob/master/js/FileSaver.js
 // @run-at       document-start
 // @grant        none
 // @noframes
