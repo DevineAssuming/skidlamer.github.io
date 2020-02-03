@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Krunker  Skid - 🔥bushfire-disaster-appeal🔥
+// @name         Bradys Cheat - 🔥bushfire-disaster-appeal🔥
 // @namespace    https://www.communityenterprisefoundation.com.au/make-a-donation/bushfire-disaster-appeal/
 // @updateURL    https://github.com/DevineAssuming/skidlamer.github.io/blob/master/js/krunker_skid.user.js
 // @icon64       https://pbs.twimg.com/profile_images/931401544129318913/10UTQJ_n_400x400.jpg
